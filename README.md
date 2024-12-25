@@ -10,7 +10,7 @@ Building cool stuff that solves real problems. 💡
 
 Exploring cutting-edge tech and diving deep into code. 💻
 
-Sharing what I learn with the community. 🌱
+# Sharing what I learn with the community. 🌱
 
 
 ### 🛠 Current Focus:
